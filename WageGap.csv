@@ -1,0 +1,30 @@
+﻿AnnualWages,WagesHighLow,Number of Records
+64451,AtlantaHigh,1
+22172.8,AtlantaLow,1
+35807.2,BostonLow,1
+30440.8,ChicagoLow,1
+35952.8,DC_Low,1
+25542.4,DallasLow,1
+31179.2,DetroitLow,1
+23108.8,HoustonLow,1
+27768,LA_Low,1
+26364,MiamiLow,1
+33810.4,NY_Low,1
+25729.6,PhillyLow,1
+29848,PhoenixLow,1
+24398.4,RivLow,1
+35828,SF_Low,1
+74223,BostonHigh,1
+72808,ChicagoHigh,1
+79329,DC_High,1
+79706,DallasHigh,1
+59536,DetroitHight,1
+42366,HoustonHigh,1
+75095,LA_High,1
+90594, NY_High,1
+42850,MiamiHigh,1
+65918,PhillyHigh,1
+58808,PhoenixHigh,1
+62820,RivHigh,1
+102031,SF_High,1
+4195360,,1

@@ -1,0 +1,42 @@
+﻿medianIncome,AffordableIndexRatio,DaysHomeListed,3BR_Home_Median,3BR_Rental_Median,HomeSales,Foreclosures,BuyerSellerIndex,CBSA Title,AffordableIndex,Number of Records,Region Name,Size Rank,StateName
+74868.79435,5.551044379,137,399990,2670,19764,1.03,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",Price To Income,1,"New York, NY",1,NY
+68944.35421,9.072534034,71,624900,3095,9786,0.35,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",Price To Income,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA
+68699.38278,3.122298794,101.75,226200,1720,12206,3.31,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",Price To Income,1,"Chicago, IL",3,IL
+66349.54255,3.260007404,64.75,250000,1575,8761,0.37,5,"Dallas-Fort Worth-Arlington, TX",Price To Income,1,"Dallas-Fort Worth, TX",4,TX
+68748.32138,3.250988468,99.875,219900,1500,8622,2.84,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Price To Income,1,"Philadelphia, PA",5,PA
+63617.57456,3.010174489,94.25,239500,1550,8063,0.14,7.665745856,"Houston-The Woodlands-Sugar Land, TX",Price To Income,1,"Houston, TX",6,TX
+99245.38027,3.932676755,84.5,385000,2000,7313,1.34,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Price To Income,1,"Washington, DC",7,DC
+53077.68395,4.938045154,111,369000,2200,10098,0.12,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",Price To Income,1,"Miami-Fort Lauderdale, FL",8,FL
+64972.21737,2.953570122,84.5,200000,1330,11053,1.76,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",Price To Income,1,"Atlanta, GA",9,GA
+85888.2945,5.092661375,75.25,425450,2895,4215,0.85,7.320441989,"Boston-Cambridge-Newton, MA-NH",Price To Income,1,"Boston, MA",10,MA
+102057.9774,8.810678231,49.5,674948,3385,4791,0.27,0.400552486,"San Francisco-Oakland-Hayward, CA",Price To Income,1,"San Francisco, CA",11,CA
+58288.32792,2.515083298,81,219900,1200,6091,2,6.491712707,"Detroit-Warren-Dearborn, MI",Price To Income,1,"Detroit, MI",12,MI
+60604.04172,5.700939907,77.5,349900,1900,5631,0.88,6.947513812,"Riverside-San Bernardino-Ontario, CA",Price To Income,1,"Riverside, CA",13,CA
+60716.5965,4.031846548,66.5,280409,1320,11437,0.64,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",Price To Income,1,"Phoenix, AZ",14,AZ
+74868.79435,0.252881017,137,399990,2670,19764,1.03,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",Mortgage Affordability,1,"New York, NY",1,NY
+68944.35421,0.413304501,71,624900,3095,9786,0.35,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",Mortgage Affordability,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA
+68699.38278,0.142238116,101.75,226200,1720,12206,3.31,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",Mortgage Affordability,1,"Chicago, IL",3,IL
+66349.54255,0.148511511,64.75,250000,1575,8761,0.37,5,"Dallas-Fort Worth-Arlington, TX",Mortgage Affordability,1,"Dallas-Fort Worth, TX",4,TX
+68748.32138,0.148100648,99.875,219900,1500,8622,2.84,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Mortgage Affordability,1,"Philadelphia, PA",5,PA
+63617.57456,0.137130229,94.25,239500,1550,8063,0.14,7.665745856,"Houston-The Woodlands-Sugar Land, TX",Mortgage Affordability,1,"Houston, TX",6,TX
+99245.38027,0.179155349,84.5,385000,2000,7313,1.34,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Mortgage Affordability,1,"Washington, DC",7,DC
+53077.68395,0.224955485,111,369000,2200,10098,0.12,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",Mortgage Affordability,1,"Miami-Fort Lauderdale, FL",8,FL
+64972.21737,0.134551584,84.5,200000,1330,11053,1.76,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",Mortgage Affordability,1,"Atlanta, GA",9,GA
+85888.2945,0.231999115,75.25,425450,2895,4215,0.85,7.320441989,"Boston-Cambridge-Newton, MA-NH",Mortgage Affordability,1,"Boston, MA",10,MA
+102057.9774,0.40137551,49.5,674948,3385,4791,0.27,0.400552486,"San Francisco-Oakland-Hayward, CA",Mortgage Affordability,1,"San Francisco, CA",11,CA
+58288.32792,0.114576065,81,219900,1200,6091,2,6.491712707,"Detroit-Warren-Dearborn, MI",Mortgage Affordability,1,"Detroit, MI",12,MI
+60604.04172,0.259709593,77.5,349900,1900,5631,0.88,6.947513812,"Riverside-San Bernardino-Ontario, CA",Mortgage Affordability,1,"Riverside, CA",13,CA
+60716.5965,0.183673086,66.5,280409,1320,11437,0.64,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",Mortgage Affordability,1,"Phoenix, AZ",14,AZ
+74868.79435,0.387237437,137,399990,2670,19764,1.03,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",Rent Affordability,1,"New York, NY",1,NY
+68944.35421,0.476384185,71,624900,3095,9786,0.35,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",Rent Affordability,1,"Los Angeles-Long Beach-Anaheim, CA",2,CA
+68699.38278,0.289085567,101.75,226200,1720,12206,3.31,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",Rent Affordability,1,"Chicago, IL",3,IL
+66349.54255,0.289557384,64.75,250000,1575,8761,0.37,5,"Dallas-Fort Worth-Arlington, TX",Rent Affordability,1,"Dallas-Fort Worth, TX",4,TX
+68748.32138,0.276137651,99.875,219900,1500,8622,2.84,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Rent Affordability,1,"Philadelphia, PA",5,PA
+63617.57456,0.292183412,94.25,239500,1550,8063,0.14,7.665745856,"Houston-The Woodlands-Sugar Land, TX",Rent Affordability,1,"Houston, TX",6,TX
+53077.68395,0.420063543,111,369000,2200,10098,0.12,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",Rent Affordability,1,"Miami-Fort Lauderdale, FL",8,FL
+64972.21737,0.256725115,84.5,200000,1330,11053,1.76,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",Rent Affordability,1,"Atlanta, GA",9,GA
+85888.2945,0.331826358,75.25,425450,2895,4215,0.85,7.320441989,"Boston-Cambridge-Newton, MA-NH",Rent Affordability,1,"Boston, MA",10,MA
+102057.9774,0.400830989,49.5,674948,3385,4791,0.27,0.400552486,"San Francisco-Oakland-Hayward, CA",Rent Affordability,1,"San Francisco, CA",11,CA
+58288.32792,0.246841872,81,219900,1200,6091,2,6.491712707,"Detroit-Warren-Dearborn, MI",Rent Affordability,1,"Detroit, MI",12,MI
+60604.04172,0.366906222,77.5,349900,1900,5631,0.88,6.947513812,"Riverside-San Bernardino-Ontario, CA",Rent Affordability,1,"Riverside, CA",13,CA
+60716.5965,0.267011014,66.5,280409,1320,11437,0.64,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",Rent Affordability,1,"Phoenix, AZ",14,AZ

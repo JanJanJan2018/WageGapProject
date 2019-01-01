@@ -1,0 +1,42 @@
+﻿3BR Home Median,3BR Rental Median,Affordable Index Ratio,Affordable Index,Buyer Seller Index,CBSA Title,Days Home Listed,Foreclosures,Home Sales,Number of Records,Region Name,ZipCode,Size Rank,State Name,Median Income
+200000,1330,0.256725115,Rent Affordability,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,1,"Atlanta, GA",30087,9,GA,64972.21737
+200000,1330,0.134551584,Mortgage Affordability,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,1,"Atlanta, GA",30087,9,GA,64972.21737
+200000,1330,2.953570122,Price To Income,2.520718232,"Atlanta-Sandy Springs-Roswell, GA",84.5,1.76,11053,1,"Atlanta, GA",30087,9,GA,64972.21737
+425450,2895,0.331826358,Rent Affordability,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,1,"Boston, MA",01450,10,MA,85888.2945
+425450,2895,0.231999115,Mortgage Affordability,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,1,"Boston, MA",01450,10,MA,85888.2945
+425450,2895,5.092661375,Price To Income,7.320441989,"Boston-Cambridge-Newton, MA-NH",75.25,0.85,4215,1,"Boston, MA",01450,10,MA,85888.2945
+226200,1720,0.289085567,Rent Affordability,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,1,"Chicago, IL",60410,3,IL,68699.38278
+226200,1720,0.142238116,Mortgage Affordability,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,1,"Chicago, IL",60410,3,IL,68699.38278
+226200,1720,3.122298794,Price To Income,9.488950276,"Chicago-Naperville-Elgin, IL-IN-WI",101.75,3.31,12206,1,"Chicago, IL",60410,3,IL,68699.38278
+250000,1575,0.289557384,Rent Affordability,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,1,"Dallas-Fort Worth, TX",75082,4,TX,66349.54255
+250000,1575,0.148511511,Mortgage Affordability,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,1,"Dallas-Fort Worth, TX",75082,4,TX,66349.54255
+250000,1575,3.260007404,Price To Income,5,"Dallas-Fort Worth-Arlington, TX",64.75,0.37,8761,1,"Dallas-Fort Worth, TX",75082,4,TX,66349.54255
+219900,1200,0.246841872,Rent Affordability,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,1,"Detroit, MI",48310,12,MI,58288.32792
+219900,1200,0.114576065,Mortgage Affordability,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,1,"Detroit, MI",48310,12,MI,58288.32792
+219900,1200,2.515083298,Price To Income,6.491712707,"Detroit-Warren-Dearborn, MI",81,2,6091,1,"Detroit, MI",48310,12,MI,58288.32792
+239500,1550,0.292183412,Rent Affordability,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,1,"Houston, TX",77064,6,TX,63617.57456
+239500,1550,0.137130229,Mortgage Affordability,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,1,"Houston, TX",77064,6,TX,63617.57456
+239500,1550,3.010174489,Price To Income,7.665745856,"Houston-The Woodlands-Sugar Land, TX",94.25,0.14,8063,1,"Houston, TX",77064,6,TX,63617.57456
+369000,2200,0.420063543,Rent Affordability,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,1,"Miami-Fort Lauderdale, FL",33196,8,FL,53077.68395
+369000,2200,0.224955485,Mortgage Affordability,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,1,"Miami-Fort Lauderdale, FL",33196,8,FL,53077.68395
+369000,2200,4.938045154,Price To Income,8.024861878,"Miami-Fort Lauderdale-West Palm Beach, FL",111,0.12,10098,1,"Miami-Fort Lauderdale, FL",33196,8,FL,53077.68395
+399990,2670,0.387237437,Rent Affordability,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,1,"New York, NY",08738,1,NY,74868.79435
+399990,2670,0.252881017,Mortgage Affordability,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,1,"New York, NY",08738,1,NY,74868.79435
+399990,2670,5.551044379,Price To Income,9.585635359,"New York-Newark-Jersey City, NY-NJ-PA",137,1.03,19764,1,"New York, NY",08738,1,NY,74868.79435
+219900,1500,0.276137651,Rent Affordability,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,1,"Philadelphia, PA",08084,5,PA,68748.32138
+219900,1500,0.148100648,Mortgage Affordability,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,1,"Philadelphia, PA",08084,5,PA,68748.32138
+219900,1500,3.250988468,Price To Income,9.150552486,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",99.875,2.84,8622,1,"Philadelphia, PA",08084,5,PA,68748.32138
+280409,1320,0.267011014,Rent Affordability,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,1,"Phoenix, AZ",85249,14,AZ,60716.5965
+280409,1320,0.183673086,Mortgage Affordability,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,1,"Phoenix, AZ",85249,14,AZ,60716.5965
+280409,1320,4.031846548,Price To Income,4.267955801,"Phoenix-Mesa-Scottsdale, AZ",66.5,0.64,11437,1,"Phoenix, AZ",85249,14,AZ,60716.5965
+349900,1900,0.366906222,Rent Affordability,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,1,"Riverside, CA",92210,13,CA,60604.04172
+349900,1900,0.259709593,Mortgage Affordability,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,1,"Riverside, CA",92210,13,CA,60604.04172
+349900,1900,5.700939907,Price To Income,6.947513812,"Riverside-San Bernardino-Ontario, CA",77.5,0.88,5631,1,"Riverside, CA",92210,13,CA,60604.04172
+674948,3385,0.400830989,Rent Affordability,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,1,"San Francisco, CA",94112,11,CA,102057.9774
+674948,3385,0.40137551,Mortgage Affordability,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,1,"San Francisco, CA",94112,11,CA,102057.9774
+674948,3385,8.810678231,Price To Income,0.400552486,"San Francisco-Oakland-Hayward, CA",49.5,0.27,4791,1,"San Francisco, CA",94112,11,CA,102057.9774
+385000,2000,0.179155349,Mortgage Affordability,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,1,"Washington, DC",20724,7,DC,99245.38027
+385000,2000,3.932676755,Price To Income,5.732044199,"Washington-Arlington-Alexandria, DC-VA-MD-WV",84.5,1.34,7313,1,"Washington, DC",20724,7,DC,99245.38027
+624900,3095,0.476384185,Rent Affordability,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,1,"Los Angeles-Long Beach-Anaheim, CA",92831,2,CA,68944.35421
+624900,3095,0.413304501,Mortgage Affordability,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,1,"Los Angeles-Long Beach-Anaheim, CA",92831,2,CA,68944.35421
+624900,3095,9.072534034,Price To Income,4.185082873,"Los Angeles-Long Beach-Anaheim, CA",71,0.35,9786,1,"Los Angeles-Long Beach-Anaheim, CA",92831,2,CA,68944.35421
